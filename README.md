@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-[FeedgetWidget] É um projeto que foi desenvolvido durante a 8° edição da Next Level Week que foi denominada a NLW Return que aconteceu do dia 2 de maio até o dia 6 de maio. O projeto consiste em fazer uma aplicação de feedback que possa ser implementada em qualquer site da web. O usuário da página pode enviar mensagens de feedback para o criador do site.
+[FeedgetWidget](https://feedbackwidget-js9yd2ps8-rayanneramos.vercel.app/) É um projeto que foi desenvolvido durante a 8° edição da Next Level Week que foi denominada a NLW Return que aconteceu do dia 2 de maio até o dia 6 de maio. O projeto consiste em fazer uma aplicação de feedback que possa ser implementada em qualquer site da web. O usuário da página pode enviar mensagens de feedback para o criador do site.
 
  - [x] Dia 01 - Frontend
  - [x] Dia 02 - Frontend
