@@ -73,6 +73,11 @@ Você pode visualizar o layout do projeto através:
   - [ ] Dashboard de feedback
   - [ ] Testes
   - [x] Deploy
+  - [ ] Página de Login
+  - [ ] Página de Admin com a exibição dos feedbacks
+  - [ ] Concluir o feedback
+  - [ ] Remover o feedback
+  - [ ] Responder o feedback
 
 ## 📝 License
 
